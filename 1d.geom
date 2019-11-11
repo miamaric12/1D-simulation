@@ -6,6 +6,23 @@
   componentnames H Zr
   interpolation_type cubic
 </header>
+<solution_parameters>
+  finaltime 72000.0 
+  timestep0 1e-9
+  timestepmin 1e-9
+  timestepmax 1e+2 
+  interfacewidth 4 
+  initblocksize 2 2 64
+  initrefine 0
+  maxnrefine 0
+  initcoarsen 0
+  amrinterval 20000000
+  reltol 1e-4 
+  abstol 1e-4 
+  outputfreq 5000
+  outfile hydride
+  petscoptions -ts_adapt_monitor
+</solution_parameters>
 <material 1>
   chemicalenergy_type quadratic
   RT 4156
