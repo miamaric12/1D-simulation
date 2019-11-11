@@ -1,0 +1,16 @@
+<header>
+  n_interfaces 2
+</header>
+<interface 1>
+  energy 0.065
+  mobility 1.8e-10
+  potential 0.187e+2 0
+</interface 1>
+<interface 2>
+  energy 0.065
+  mobility 5.0e-11
+</interface 2>
+<interface_mapping>
+  2 of 1
+  7 of 2
+</interface_mapping>
