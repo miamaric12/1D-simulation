@@ -7,7 +7,8 @@
   interpolation_type cubic
 </header>
 <material 1>
- chemicalenergy_type quadratic
+  RT 3267.402
+  chemicalenergy_type quadratic
   molarvolume 1.63e-5
   mobilityc 4.973701e-11 0.0
   c0 0.084 0.0
