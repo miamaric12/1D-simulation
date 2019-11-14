@@ -3,7 +3,7 @@
 </header>
 <interface 1>
   energy 0.065
-  mobility 1.8e-10
+  mobility 1.34e-10
   potential 0.187e+2 0.0
 </interface 1>
 <interface 2>
