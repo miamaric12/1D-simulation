@@ -25,6 +25,7 @@
 </solution_parameters>
 <material 1>
   chemicalenergy_type quadratic
+  RT 4157
   molarvolume 1.40e-5
   mobilityc 1.34e-10 0.0
   c0 0.002 0.601
